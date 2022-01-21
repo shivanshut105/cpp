@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivanshut105
+- 👋 Hi, I’m Shivanshu Thakur
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on unique projects
