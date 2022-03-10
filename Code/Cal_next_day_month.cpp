@@ -12,7 +12,7 @@ public:
     }
     void getdata(){
         string cal[12]={"Jan","Feb","March","April", "May","June","July","Aug","Sept","Oct","Nov","Dec"};
-        string calday[14]={"Monday","Tuesday", "Wednasday","Thursday","Friday","Saturday","Sunday","Monday","Tuesday", "Wednasday","Thursday","Friday","Saturday","Sunday"};
+        string calday[14]={"Monday","Tuesday", "Wednesday","Thursday","Friday","Saturday","Sunday","Monday","Tuesday", "Wednesday","Thursday","Friday","Saturday","Sunday"};
         string newmonth, newday;
         for (int i = 0; i < 12; ++i)
         {
