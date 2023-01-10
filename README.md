@@ -1,4 +1,4 @@
--Basic C++ code
+Basic C++ code
 
 <!---
 shivanshut105/shivanshut105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
